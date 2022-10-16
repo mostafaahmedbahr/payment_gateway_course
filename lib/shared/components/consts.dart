@@ -1,0 +1,5 @@
+String payMobApiKey = 'ZXlKaGJHY2lPaUpJVXpVeE1pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SndjbTltYVd4bFgzQnJJam96TWpBMU16VXNJbU5zWVhOeklqb2lUV1Z5WTJoaGJuUWlMQ0p1WVcxbElqb2lhVzVwZEdsaGJDSjkudzdsTl9fbjU4M0kzM2taMHJNOXRKT2lfYloycjdKRnpQSnRqTlhmWjZmNnJ4U3ZtOGVad1psbHhUSkNSa0Q4bm9TSndzcUhoOXZnWnVoUjVsMVkwZHc=';
+String payMobFirstToken = '';
+String orderId = '';
+String finalTokenCard = '';
+String integrationIdCard = '2601313';
